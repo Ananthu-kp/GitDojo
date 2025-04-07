@@ -1,4 +1,4 @@
 const array = [1, 2, 3];
-let b = 0;
-let a;
-a
+let a = 0;
+let b = a;
+console.log(b)
