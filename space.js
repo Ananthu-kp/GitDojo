@@ -1,4 +1,3 @@
-const array = [1, 2, 3];
-let a = 0;
+let a = 10;
 let b = a;
 console.log(b)
